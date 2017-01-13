@@ -1,0 +1,14 @@
+Ukrywanie tekstu w bitmapach
+Adam Daniluk
+28 listopada 2016
+1 Opis
+Projekt bedzie polega? na zakodowaniu tekstu w w bitmapach w taki sposob,
+aby obraz nie ulega? zmianie. Objasnienie teoretyczne mozna znalezc na stronie:
+http://www.algorytm.org/inne/ukrywanie-tekstu-w-bitmapach.html
+2 Wykorzystane technologie/biblioteki
+Program bedzie pisany w Javie w oparciu o standardowe biblioteki takie jak file,
+image, imageio i mozliwe ze swing dla nadania aplikacji wygladu okienkowego.
+3 Zakres funkcjonalny
+? Otwieranie istniejacego obrazu w formacie bmp
+? pobieranie tekstu od uzytkownika
+? testowanie czy dany tekst zmiesci sie w obrazie
